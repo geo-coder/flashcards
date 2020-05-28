@@ -1,0 +1,41 @@
+.ShowScore {
+
+    
+    /* height: 400px; */
+    
+    background-color: white;
+    
+    
+    
+    width: 90%;
+    /* margin: 60px auto 0 auto; */
+    margin: 0 auto;
+    border-radius: 5px;
+    text-align: center;
+
+    
+
+    
+}
+
+.StickyContent {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+
+.FixedBottom {
+
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    background-color: rgb(125, 125, 252);
+    
+    
+}
+
+.BottomContent{
+    margin: 10px 0;
+}

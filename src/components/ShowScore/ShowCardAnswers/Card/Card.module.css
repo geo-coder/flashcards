@@ -1,0 +1,31 @@
+.Card {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    
+}
+
+.Card p {
+    
+    
+}
+
+.Incorrect {
+    background-color: rgb(243, 109, 109);
+}
+
+.Correct {
+    background-color: rgb(85, 216, 85);
+}
+
+.Border {
+    border-bottom: solid darkgray 5px;
+}
+
+@media (min-width: 1000px){
+
+    .Card{
+        width: 500px;
+        margin: 0 auto 10px auto;
+    }
+}

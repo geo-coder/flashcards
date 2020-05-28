@@ -1,0 +1,17 @@
+.YesNoButton {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    /* background-color: rgb(85, 216, 85); */
+    text-align: center;
+    font-size: larger;
+    font-weight: 300;
+    /* padding: .5em 1em; */
+    padding: 40px;
+    margin: .5em 0;
+    display: block;
+    margin: 4px;
+    font-size: 18px;
+    width: 50%;
+}
+

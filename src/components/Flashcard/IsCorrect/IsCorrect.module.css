@@ -1,0 +1,9 @@
+.IsCorrect {
+    /* display:block;
+    position: absolute;
+    bottom:10px; */
+    color: red;
+    display: block;
+    position: absolute;
+    bottom: 0;
+}
